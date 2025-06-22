@@ -1,7 +1,7 @@
 {
   "name": "NIMA-MD",
   "description": "WhatsApp bot made by Nima Md",
-  "logo": "https://files.catbox.moe/3hrstp.jpg",
+  "logo": "https://files.catbox.moe/n8o8py.jpg",
   "keywords": ["NIMA-MD"],
   "success_url": "/",
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": true,
-      "value": "https://files.catbox.moe/60dfx8.jpg"
+      "value": "https://files.catbox.moe/n8o8py.jpg"
     },
     
      "DESCRIPTION": {
