@@ -105,7 +105,7 @@ jobs:
 > Nima Pair Code 01 (Session ID)
 
 <p align="left">  
-<a href='https://nimawebpair-f2f2c0c16cc0.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://freebot1v-a0f7b5a8431f.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>  
 
 > Nima Pair Code 02 (Session ID)
